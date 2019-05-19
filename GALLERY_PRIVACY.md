@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Prem Nirmal built the TextPad appp. This SERVICE is provided by Prem Nirmal and is intended for use as is.
+Prem Nirmal built the Gallery app. This SERVICE is provided by Prem Nirmal and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
